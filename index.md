@@ -187,7 +187,7 @@ and our administrator may contact you if we need any extra information.</h4>
 
 <p>
   <a href="http://www.uni-wuerzburg.de">
-    <img src="https://www.zbmed.de/typo3conf/ext/dreipc_zbmed/Resources/Public/Image/ZBMED_2017_DE.svg" alt="ZB MED" height="50"/>
+    <img src="https://www.zbmed.de/typo3conf/ext/dreipc_zbmed/Resources/Public/Image/ZBMED_2017_DE.svg" alt="ZB MED" height="100"/>
   </a>
 </p>
 
