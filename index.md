@@ -186,7 +186,7 @@ and our administrator may contact you if we need any extra information.</h4>
 
 
 <p>
-  <a href="https://www.zbmed.de/">
+  <a href="https://www.fu-berlin.de/">
     <img src="https://upload.wikimedia.org/wikipedia/de/thumb/7/71/Fub-logo.svg/2000px-Fub-logo.svg.png" alt="FU" height="100"/>
   </a>
 </p>
