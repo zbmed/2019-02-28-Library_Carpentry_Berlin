@@ -5,7 +5,7 @@ venue: "FU Berlin"        # brief name of host site without address (e.g., "Euph
 address: "Kaiserswerther Str. 16-18, 14195 Berlin"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "DE"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "de"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
-latlng: "52.512637, 13.326968"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
+latlng: "52.452644, 13.289711"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
 humandate: "Feb. 28 + Mar. 1, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00 - 16:30"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2019-02-28      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
