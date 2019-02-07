@@ -188,10 +188,16 @@ and our administrator may contact you if we need any extra information.</h4>
 <p>
   <a href="https://www.fu-berlin.de/">
     <img src="https://upload.wikimedia.org/wikipedia/de/thumb/7/71/Fub-logo.svg/2000px-Fub-logo.svg.png" alt="FU"
- <img src="https://www.zbmed.de/typo3conf/ext/dreipc_zbmed/Resources/Public/Image/ZBMED_2017_DE.svg" alt="ZB MED" 
 	  height="100"/>
   </a>
 </p>
+<a href="https://www.zbmed.de/">
+ <img src="https://www.zbmed.de/typo3conf/ext/dreipc_zbmed/Resources/Public/Image/ZBMED_2017_DE.svg" alt="ZB MED" 
+      	  height="100"/>
+  </a>
+</p>
+
+
 
 <hr/>
 
