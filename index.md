@@ -324,20 +324,25 @@ and our administrator may contact you if we need any extra information.</h4>
         <li>Download the Git for Windows <a href="https://git-for-windows.github.io/">installer</a>.</li>
         <li>Run the installer and follow the steps bellow:
           <ol>
-            {% comment %} Git 2.8.2 Setup {% endcomment %}
+            {% comment %}  Git 2.20.1 Setup {% endcomment %}
             {% comment %} Information {% endcomment %}
-            <li>Click on "Next".</li>
-            {% comment %} Select Components {% endcomment %}
-            <li>Click on "Next".</li>
-            {% comment %} Adjusting your PATH environment {% endcomment %}
-            <li>
+		<li>
+                Click on "Next" four times (two times if you've previously
+                installed Git).  You don't need to change anything
+                in the Information, location, components, and start menu screens.
+              </li>
+              <li>
+                <strong>
+                  Select “Use the nano editor by default” and click on “Next”.
+                </strong>
+              </li>
               <strong>
-                Keep "Use Git from the Windows Command Prompt" selected and click on "Next".
+                Keep "Use Git and optional Unix tools from the Command Prompt" selected and click on "Next".
               </strong>
                 If you forgot to do this programs that you need for the workshop will not work properly.
                 If this happens rerun the installer and select the appropriate option.
             </li>
-            {% comment %} Choosing the SSH executable {% endcomment %}
+            {% comment %} Use the OpenSSL library {% endcomment %}
             <li>Click on "Next".</li>
             {% comment %} Configuring the line ending conversions {% endcomment %}
             <li>
