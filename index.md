@@ -5,7 +5,7 @@ venue: "FU Berlin"        # brief name of host site without address (e.g., "Euph
 address: "Kaiserswerther Str. 16-18, 14195 Berlin"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "DE"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "de"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
-latlng: "52.452644, 13.289711"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
+latlng: "52.4532193, 13.2871146,17"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
 humandate: "Feb. 28 + Mar. 1, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00 - 16:30"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2019-02-28      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
@@ -16,6 +16,7 @@ email: ["foerstner@zbmed.de"]    # boxed, comma-separated list of contact email 
 collaborative_notes: https://hackmd.io/d2EAr1E5Szusjik0y3JI1Q  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
+
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
 
